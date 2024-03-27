@@ -1,7 +1,8 @@
-import React from 'react'
+import React from "react";
 
 export default function Register() {
   return (
+
     <div>
       Register
       <h1>Danh sach cong viec</h1>
@@ -9,4 +10,5 @@ export default function Register() {
       <button>Add</button>
     </div>
   )
+
 }

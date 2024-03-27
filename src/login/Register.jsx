@@ -2,9 +2,13 @@ import React from "react";
 
 export default function Register() {
   return (
-    <>
-      <div>Register </div>
-      <span> Đây là đăng kí</span>
-    </>
-  );
+
+    <div>
+      Register
+      <h1>Danh sach cong viec</h1>
+      <input type="text" />
+      <button>Add</button>
+    </div>
+  )
+
 }
